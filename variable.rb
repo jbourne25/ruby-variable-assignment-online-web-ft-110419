@@ -6,3 +6,4 @@
 #greeting
 #end
 
+greeting = "Hello World"
