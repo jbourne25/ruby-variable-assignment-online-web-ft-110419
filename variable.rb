@@ -6,6 +6,7 @@
 #greeting
 #end
 
-greeting = "Hello World"
-#{greeting}
+def a_local_variable
+  greeting = "Hello World"
+  puts a_local_variable
 end
